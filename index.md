@@ -2,29 +2,25 @@
 layout: default
 ---
 
+## About
+
+I am a 21 years old data scientist with broad experience in computer programming and technology. I build some interesting research projects and experiment with trending Artificial Intelligence content.
+
+I am an undergraduate student at the [Economics Department](http://www.economia.unb.br/) of the University of Brasília, and at the same time study [Statistics](http://est.unb.br/) with the intention of acquiring it as a second diploma. On the side I am a independent research assistant in many data-oriented projects at different facilities.
+
+In my free time i like to study Mathematics, History and solve the Rubik's Cube (Current single-solve record: 15.06s). Some individual research interest are Time Series Models, Natural Language Processing and Computer Vision. I also like to study languages (currently learning German).
+
+## Education
+
+
+## Research Facilities
+
+
+## Resources
+
+
 ## Projects
 
 
-
-## Ongoing Research
-
-
-## Blog Posts
-
-
-## About
-
-I am a software engineer and media artist currently based in Portland, Oregon. I build custom software that explores topics like computational origami, knot theory, geometry, and folding.
-
-I graduated from the [Digital Media Design](https://catalog.upenn.edu/undergraduate/programs/digital-media-design-bse/) program at the University of Pennsylvania, an interdisciplinary major that blends computer science and art. I also minored in music. I attended the spring 2015 session of [The School for Poetic Computation](https://sfpc.io/): an artist run school in NYC that explores the intersections of hardware, code, and poetry. Recently, I finished a 3-year stint as an interactive developer at [Obscura Digital](https://www.msg.com/obscura-digital) in San Francisco and now work as an independent contractor and consultant.
-
-In my free time, I study Hindustani classical music (sitar) with [Josh Feinberg](https://www.joshsitar.com/), fold origami, study mathematics and geometry, learn languages (currently learning Japanese), and compose electronic music.
-
-This website showcases a few of my personal projects. I also post experiments and works-in-progress on my [Instagram](https://www.instagram.com/mwalczyk/) account.
-
-
-
-
-
-
+## Licenses and Certificates
 
