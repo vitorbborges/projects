@@ -4,82 +4,13 @@ layout: default
 
 ## Projects
 
-<table style="width:100%">
 
-  <tr>
-    <td style="width:33%">
-      <a href="./project-grid-diagrams.html">
-        <img src="./assets/img/project-grid-diagrams.png"/>
-      </a>
-    </td>
-    <td style="width:33%">
-      <a href="./project-hopf.html">
-        <img src="./assets/img/project-hopf.png"/>
-      </a>
-    </td>
-    <td style="width:33%">
-      <a href="./project-crease.html">
-        <img src="./assets/img/project-crease.png"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width:33%">
-      <a href="./project-marching-cubes.html">
-        <img src="./assets/img/project-marching-cubes.png"/>
-      </a>
-    </td>
-    <td style="width:33%">
-      <a href="./project-flow.html">
-        <img src="./assets/img/project-flow.png"/>
-      </a>
-    </td>
-    <td style="width:33%">
-      <a href="./project-polychora.html">
-        <img src="./assets/img/project-polychora.png"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width:33%">
-      <a href="./project-unfolding.html">
-        <img src="./assets/img/project-unfolding.png"/>
-      </a>
-    </td>
-  </tr>
-
-</table>
 
 ## Ongoing Research
 
-<table style="width:100%">
-
-  <tr>
-    <td style="width:33%">
-      <a href="./project-miura-ori.html">
-        <img src="./assets/img/project-miura-ori.png"/>
-      </a>
-    </td>
-    <td style="width:33%">
-      <a href="./project-sdfperf.html">
-        <img src="./assets/img/project-sdfperf.png"/>
-      </a>
-    </td>
-    <td>
-      <a href="./project-silhouette-refinement.html">
-        <img src="./assets/img/project-silhouette-refinement.png"/>
-      </a>
-    </td>
-  </tr>
-
-</table>
 
 ## Blog Posts
 
-[Ray Marching](./blog-ray-marching.html)<br>
-[Learning Origami](./blog-learning-origami.html)
 
 ## About
 
